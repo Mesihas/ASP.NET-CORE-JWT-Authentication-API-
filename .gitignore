@@ -44,3 +44,9 @@ client/app/**/*.js.map
 # .NET compiled files
 bin
 obj
+.vs/WebApi/v16/Server/sqlite3/storage.ide-wal
+.vs/WebApi/v16/Server/sqlite3/storage.ide-shm
+.vs/WebApi/v16/Server/sqlite3/storage.ide
+.vs/ASP.NET-CORE-JWT-Authentication-API/v16/.suo
+.vs/WebApi/v16/Server/sqlite3/db.lock
+.vs/slnx.sqlite
